@@ -1,7 +1,7 @@
 #include "si1145.h"
 
 #include <cmath>
-
+#include "Arduino.h"
 #include "esphome/core/log.h"
 
 namespace esphome {
